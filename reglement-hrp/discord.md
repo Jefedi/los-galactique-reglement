@@ -2,7 +2,7 @@
 
 ## Règlement des discord
 
-[https://discord.gg/aESdYg2uFm](https://discord.gg/aESdYg2uFm)
+[https://reglement.jefe.space/](https://reglement.jefe.space/)
 
 * Tout pseudo discord doit être respectueux et cohérent avec le RP.
 * Tout pseudo offensant se verra sanctionnable. _(Exemple : Titouan )_
