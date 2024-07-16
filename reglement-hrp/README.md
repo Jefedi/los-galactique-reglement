@@ -26,5 +26,3 @@ layout:
 
 # 🌐 Règlement HRP
 
-[reglement-hrp.md](reglement-hrp.md "mention")[\
-](https://reglement-hrp-or-wiki-gtanew.gitbook.io/reglement-gtanew-v1)
