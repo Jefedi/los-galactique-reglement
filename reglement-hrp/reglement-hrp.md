@@ -45,3 +45,99 @@ Le **/me** du style <mark style="color:purple;">“J'suis nul ontop”</mark>, t
 Il est interdit d’utiliser un <mark style="color:red;">modificateur de voix</mark> qui n’apporte <mark style="color:red;">RIEN</mark> de concret en RP. _(Un modificateur de voix utilisé pendant un échange d’otage avec la police pour dissimuler votre identité est autorisé par exemple)_
 
 </details>
+
+<details>
+
+<summary>Discrimination</summary>
+
+L’homophobie, la transphobie, le racisme, la zoophilie, la pédophilie, ou toutes autres choses discriminatoire d'une quoiqu'onques façon sont strictement interdit et serons sanctionné d’un ban définitif.
+
+</details>
+
+<details>
+
+<summary>Insulte HRP</summary>
+
+Toutes insultes / menaces / harcèlement visant l’HRP ne sont pas tolérées. N’oubliez pas que ce n'est qu'un jeu !
+
+</details>
+
+<details>
+
+<summary>Insulte parentales</summary>
+
+En RP, les insultes parentales uniquement, même dans un contexte rp ne sont pas tolérées. En revanche, les insultes tel que : "_Batard", "Enculé", "Con/Connard", etc..._ sont tolérées en rp sans être dans l'abus.
+
+</details>
+
+<details>
+
+<summary>Mensonges</summary>
+
+Les mensonges aux staffs sont considérés comme une mauvaise foi flagrante et sont interdits, vous serez sanctionnés et surveillé par la suite.
+
+</details>
+
+<details>
+
+<summary>Avantage via achat boutique</summary>
+
+Le fait d’acheter sur la boutique ne vous donne en aucun cas un quelconque avantage ou passe droit pour quoi que ce soit concernant le serveur ou un problème.
+
+</details>
+
+<details>
+
+<summary>Modif arme non collé</summary>
+
+Tout accessoires mis sur une arme <mark style="color:red;">**NON Permanente**</mark> (_NON Boutique)_ sera non remboursable en cas d'échange ou de dons à un autre joueur même sous preuve. _(Les accessoires restant collé sur les armes non boutique, en cas de perte ou de saisie par la LSPD ou autre, sera considéré comme de la perte.)_
+
+</details>
+
+<details>
+
+<summary>Vente HRP</summary>
+
+Il est interdit de vendre des armes ou véhicules contre de l’argent IRL ! **(Si cela arrive, nous ne seront en aucun cas responsable de toute arnaque ou autre soucis lié à ce.**
+
+</details>
+
+<details>
+
+<summary>Echange de compte</summary>
+
+Les échanges de comptes rockstar game sont interdit, si une personne se fait ban, et que cette même personne à été sur votre compte rockstar game, même une fois, vous serez indirectement lié à son ban, et aucun unban ne sera possible tant que la personne ne sera pas unban.
+
+</details>
+
+<details>
+
+<summary>Vente de compte</summary>
+
+Les ventes de comptes rockstar game sont interdit, pour les même raisons que pour l'échange de compte.
+
+</details>
+
+<details>
+
+<summary>Utilisation de bugs/glitches</summary>
+
+L'utilisation de bugs ou de glitches dans votre RP est interdite. Cela inclut l'utilisation d'animations pour sortir de cellules ou le spam de touches pour avantager votre RP. Le "use bug" est proscrit sur le serveur.
+
+</details>
+
+<details>
+
+<summary>Publiciés Discord &#x26; Dans le jeux</summary>
+
+Les publicités de tout type sont strictement interdites. Le serveur ne doit pas être utilisé à des fins publicitaires. _(<mark style="color:red;">Discord ou dans le jeux</mark>)_
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
