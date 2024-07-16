@@ -4,7 +4,7 @@ description: >-
   pas avoir de problème en RP merci de votre compréhension et bonne aventure a
   vous dans le meilleur serveur FA de France !
 cover: >-
-  .gitbook/assets/DALL·E 2024-07-15 19.26.09 - Create a professional logo for
+  ../.gitbook/assets/DALL·E 2024-07-15 19.26.09 - Create a professional logo for
   'Los Galactique RP' reflecting a galactic and futuristic ambiance, evoking
   space, stars, and science fiction. Use color.webp
 coverY: 51.10588235294117
