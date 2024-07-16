@@ -29,3 +29,19 @@ Tout mod menu, ou mod style no recoil, no bush, no water, no props, hitbox, bull
 Tout pseudo offensant, raciste ou contenant des propos inappropriés, est totalement interdit, en cas de non-respect de cette règle, un <mark style="color:red;">**bannissement**</mark> _<mark style="color:red;">temporaire</mark>_ ou _<mark style="color:red;">permanent</mark>_ vous sera administré en fonction de la situation.
 
 </details>
+
+<details>
+
+<summary>/Me HRP</summary>
+
+Le **/me** du style <mark style="color:purple;">“J'suis nul ontop”</mark>, tout comme les <mark style="color:red;">/me inutiles</mark>, la <mark style="color:red;">depop</mark>, <mark style="color:red;">ez</mark> ou pour <mark style="color:red;">insulter ou autre sont interdit pendant les scènes rp</mark>, le <mark style="color:green;">/me sert à décrire une action RP</mark>, donc tout <mark style="color:red;">/me abusifs</mark> pendant une scène RP sera <mark style="color:red;">sanctionné d'un ban perm.</mark>
+
+</details>
+
+<details>
+
+<summary>Voicemod</summary>
+
+Il est interdit d’utiliser un <mark style="color:red;">modificateur de voix</mark> qui n’apporte <mark style="color:red;">RIEN</mark> de concret en RP. _(Un modificateur de voix utilisé pendant un échange d’otage avec la police pour dissimuler votre identité est autorisé par exemple)_
+
+</details>
