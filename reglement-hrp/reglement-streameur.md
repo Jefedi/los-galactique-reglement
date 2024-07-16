@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📸 Règlement Streameur
 
 ## 🚫 Il est interdit <a href="#h.4fz5c4uuybk_l" id="h.4fz5c4uuybk_l"></a>

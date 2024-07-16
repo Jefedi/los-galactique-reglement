@@ -10,3 +10,5 @@
   * [📖 Lexique RP](reglement-global/lexique-rp.md)
   * [📄 Notions de base RP](reglement-global/notions-de-base-rp.md)
   * [📰 Règles basiques](reglement-global/regles-basiques.md)
+  * [🎓 Services Publiques](reglement-global/services-publiques.md)
+  * [🏡 Zone Safe](reglement-global/zone-safe.md)
