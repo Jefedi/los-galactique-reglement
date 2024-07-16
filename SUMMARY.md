@@ -6,3 +6,4 @@
   * [📬 Règlement Ticket](reglement-hrp/reglement-ticket.md)
   * [📸 Règlement Streameur](reglement-hrp/reglement-streameur.md)
   * [📲 Discord](reglement-hrp/discord.md)
+* [🌍 Règlement Global](reglement-global.md)
