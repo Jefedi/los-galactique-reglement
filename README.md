@@ -16,6 +16,10 @@ layout:
 
 <figure><img src=".gitbook/assets/DALL·E 2024-07-15 19.26.09 - Create a professional logo for &#x27;Los Galactique RP&#x27; reflecting a galactic and futuristic ambiance, evoking space, stars, and science fiction. Use color.webp" alt="" width="563"><figcaption></figcaption></figure>
 
-{% embed url="https://reglement.jefe.space/reglement-hrp/reglement-hrp" %}
+{% content-ref url="reglement-hrp/" %}
+[reglement-hrp](reglement-hrp/)
+{% endcontent-ref %}
 
-{% embed url="https://reglement.jefe.space/reglement-hrp/reglement-ticket" %}
+{% content-ref url="reglement-global/" %}
+[reglement-global](reglement-global/)
+{% endcontent-ref %}
