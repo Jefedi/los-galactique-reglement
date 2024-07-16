@@ -14,3 +14,18 @@ Nous vous conseillons fortement d'utiliser Medal, c'est un logiciel qui vous per
 <mark style="color:red;">Toute aide graphique</mark> **(Pack GF avec les peds lumineux, kill effect avec ped lumineux, no bush, no water, no props, etc...)** sont interdit et punis d'un jail de 900 minutes + Wipe, voir ban si trop d'abus.
 {% endhint %}
 
+<details>
+
+<summary>Modification du jeu</summary>
+
+Tout mod menu, ou mod style no recoil, no bush, no water, no props, hitbox, bullet pénétration, no spread, no ragdoll etc.., et ou logiciel de cheat est interdit et sera sanctionné d’un <mark style="color:red;">ban définitif.</mark>
+
+</details>
+
+<details>
+
+<summary>Pseudo IG <mark style="color:yellow;">(Pseudo au dessus de votre tête)</mark></summary>
+
+Tout pseudo offensant, raciste ou contenant des propos inappropriés, est totalement interdit, en cas de non-respect de cette règle, un <mark style="color:red;">**bannissement**</mark> _<mark style="color:red;">temporaire</mark>_ ou _<mark style="color:red;">permanent</mark>_ vous sera administré en fonction de la situation.
+
+</details>
