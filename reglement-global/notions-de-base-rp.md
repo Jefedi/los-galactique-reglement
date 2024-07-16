@@ -73,3 +73,105 @@ C'est le fait de provoquer un gang autre en passant dans sa zone de quartier à 
 Chaque personnage tient à sa vie. Il a peur de finir en prison et de voir sa vie ruinée (donc potentiellement peur de la police et de son action), peur de mourir, peur des personnes qui le menacent avec une arme à feu, etc.
 
 </details>
+
+<details>
+
+<summary>Douleur RP <mark style="color:red;">(Pain RP)</mark></summary>
+
+Lorsque votre personnage est blessé, il souffre. Personne n'est superman. Vous devez jouer le fait d'avoir mal et de ne pas pouvoir continuer à courir avec une jambe dans le plâtre.
+
+</details>
+
+<details>
+
+<summary>Refus de Scène</summary>
+
+Il est interdit de refuser de jouer une scène pour n’importe quelle raison. Si il y a un souci, merci de faire un report afin qu’un staff surveille la scène en cours. Il est de même interdit de vouloir être jail plutôt que de jouer une scène.
+
+</details>
+
+<details>
+
+<summary>Chiken Run/Spam Emote</summary>
+
+C’est le fait de courir en zigzag et dans tous les sens pour éviter des tirs. Mais aussi d’utiliser une Emote pour éviter des tirs/une scène/une action.
+
+</details>
+
+<details>
+
+<summary>Revenge Kill</summary>
+
+Le fait de tuer la même personne qui nous a tué juste avant.
+
+</details>
+
+<details>
+
+<summary>Imaginaire RP</summary>
+
+C’est le fait d’inventer des situations, d’imaginer certaines choses. Vous avez le droit d’inventer ce que vous voulez avec quelqu’un sous condition qu’il l’accepte de son plein gré.
+
+</details>
+
+<details>
+
+<summary>Se Cacher dans un buisson <mark style="color:red;">(Hide Bush)</mark> </summary>
+
+Ce terme désigne le fait de se cacher dans des buissons durant un GF, c’est strictement interdit de se cacher dans des buissons avant/pendant/après une fusillade. Cependant vous pouvez vous cacher dans un buisson si c’est pour une raison RolePlay _(Fuir une course poursuite à pied)_
+
+</details>
+
+<details>
+
+<summary>OFF ROAD</summary>
+
+Ce terme désigne le fait de rouler sur des montagnes ou en dehors de la route avec un véhicule non adapté. _(Super Sportive sur un chemin de terre par exemple)_
+
+</details>
+
+<details>
+
+<summary>Bunny Hop</summary>
+
+Ce terme désigne le fait de sauter en courant pour aller plus vite, c’est interdit.
+
+</details>
+
+<details>
+
+<summary>Insinuation HRP</summary>
+
+Les insinuations HRP sont strictement interdite, si vous avez quelque chose à dire à une personne concernant son comportement, sa manière de jouer ou elle même faites le en dehors du RP.
+
+Les insinuations du genre “_on est 3 autour de toi tu lève pas tes mains_” “_oh mais ta pas mal toi ?_” etc sont strictement interdites.
+
+</details>
+
+<details>
+
+<summary>HRP Vocal</summary>
+
+Ce terme désigne le fait de parler hors RolePlay en jeu ou d’utiliser des termes incohérents/illogique.
+
+</details>
+
+<details>
+
+<summary>HRP</summary>
+
+Le Hors-Roleplay _(HRP)_ est tout ce qui n'est pas fait, dit ou appris en roleplay. Les informations apprises HRP ne peuvent pas être utilisées en jeu et en Roleplay. Évitez les phrases de type : Comment on sort son téléphone ? ou encore j’ai bug/crash ou encore, je vais appeler un modo/un papillon. Favorisez les phrases telles que :
+
+Je trouve pas mon téléphone il a dû tomber au fond de mon sac / Envie pressante désolé /J’en toucherai un mot au gouv/J’ai sa carte vitale.
+
+Exemple de mots/phrases qui sont interdites: “_je parle au Dieu_” “_je suis dans ma tête_” "_déchiré son visa_” “_il a pris un visa_” “_prend sa pointure_”.
+
+</details>
+
+<details>
+
+<summary>Raccourci RP</summary>
+
+Il est interdit d'accuser un citoyen habillé en jaune de faire partie du gang des Vagos. En d'autres termes, ne faites pas de raccourcis rapides puisqu'il faut toujours prendre en compte la diversité des possibilités.
+
+</details>
