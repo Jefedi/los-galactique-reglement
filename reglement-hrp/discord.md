@@ -14,7 +14,9 @@ layout:
 
 # 📲 Discord
 
-## [Règlement du discord](https://discord.gg/aESdYg2uFm)
+{% embed url="https://discord.gg/zDKMNDV5mQ" %}
+
+## Règlement du discord
 
 * Tout pseudo discord doit être respectueux et cohérent avec le RP.
 * Tout pseudo offensant se verra sanctionnable. _(Exemple : Titouan )_
