@@ -134,10 +134,3 @@ Les publicités de tout type sont strictement interdites. Le serveur ne doit pas
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
