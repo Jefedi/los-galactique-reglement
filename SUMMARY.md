@@ -9,3 +9,4 @@
 * [🌍 Règlement Global](reglement-global/README.md)
   * [📖 Lexique RP](reglement-global/lexique-rp.md)
   * [📄 Notions de base RP](reglement-global/notions-de-base-rp.md)
+  * [📰 Règles basiques](reglement-global/regles-basiques.md)
