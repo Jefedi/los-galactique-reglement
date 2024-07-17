@@ -12,3 +12,5 @@
   * [📰 Règles basiques](reglement-global/regles-basiques.md)
   * [🎓 Services Publiques](reglement-global/services-publiques.md)
   * [🏡 Zone Safe](reglement-global/zone-safe.md)
+* [⚖️ Règlement RP Légal](reglement-rp-legal/README.md)
+  * [👮 Règlement LSPD/BCSO](reglement-rp-legal/reglement-lspd-bcso.md)
