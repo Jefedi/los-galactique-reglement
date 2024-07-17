@@ -17,3 +17,7 @@
     * [🚓 Règlement des forces de l'ordre](reglement-rp-legal/reglement-lspd-bcso/reglement-des-forces-de-lordre.md)
     * [🚨 Defcon](reglement-rp-legal/reglement-lspd-bcso/defcon.md)
   * [🚑 Règlement EMS](reglement-rp-legal/reglement-ems.md)
+  * [🏭 Règlement Entreprise](reglement-rp-legal/reglement-entreprise.md)
+* [☠️ Règlement RP Illégal](reglement-rp-illegal/README.md)
+  * [📚 Règles générales](reglement-rp-illegal/regles-generales.md)
+  * [💀 Illégal](reglement-rp-illegal/illegal.md)
