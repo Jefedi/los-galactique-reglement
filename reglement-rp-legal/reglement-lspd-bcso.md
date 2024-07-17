@@ -46,7 +46,7 @@ Les tenues et les véhicules LSPD/BCSO sont obligatoires lorsque vous êtes en s
 * Les cadet ne peuvent pas aller en patrouille tout seul.
 {% endtab %}
 
-{% tab title=" Autorisé" %}
+{% tab title="✅Autorisé" %}
 
 
 * La LSPD/BCSO a le droit de faire les pneus d’un véhicule lors d’une course poursuite si les individus ont ouvert le feu depuis le véhicule ou si il respecte le point précédant.
@@ -60,6 +60,39 @@ Les tenues et les véhicules LSPD/BCSO sont obligatoires lorsque vous êtes en s
 * Il est possible à la LSPD/BCSO de mettre des peines de prison fédérale (12h / 24h / Vie) en faisant la demande à un administrateur sous ticket.
 * La LSPD/BCSO à autorisation d’utiliser les armes boutique suivante, Glock 17 / HKUMP Pour l’état major les armes suivantes sont autorisées. Scar-h17/ M4A1/ AKS74U/FM41/HK417 _(<mark style="color:red;">avec un skin cohérent</mark>)_.
 {% endtab %}
+
+{% tab title="📜Autre règles" %}
+* Vous ne devez pas abuser de vos fonctions, ne pas insulter les citoyens et garder votre sang-froid ainsi que votre professionnalisme, le respect est primordial. Si vous ne respectez pas cela, vous vous exposez à être viré par le gouvernement.
+* Un policier ripou est constamment en danger de MORT RP.
+* Un officier de police peut être soumis à une mort RP s’il tombe durant une scène ayant interféré dans le déroulement des négociations ou ayant pris des initiatives pouvant mettre ses collègues et/ou les otages en danger.
+* L’utilisation du masque au sein de la LSPD/BCSO est réservée à l’unité d’intervention uniquement lors d’une grosse scène.
+* La LSPD/BCSO peut faire une demande de changement de DEFCON par ticket qui sera validé ou non.
+* Si une personne/groupe troll devant un bâtiment des forces de l’ordre, il peut se voir attribuer une interdiction territoriale de façon rp, pour en sortir il devra faire des travaux d'intérêt généraux pendant 1 semaine.
+* 1 LSPD/BCSO compte pour 1 personne et non pour 2.
+* Un citoyen lambda doit disposer du Permis de Port d’arme 1 pour les armes légères et du Permis de Port d’arme 2 pour les armes lourdes.
+* La LSPD pourront vous confisquer vos armes dans la totalité si vous n'êtes pas en mesure d’attester de vos Permis de port d’arme.
+{% endtab %}
+
+{% tab title="🔍Indics" %}
+Les indics doivent se référer à des hauts gradés et attendre un minimum de temps afin qu’ils puissent juger de la teneur des informations données et vérifier les raisons qui poussent le joueur à devenir indic.
+
+Un joueur qui décide d’être indic est soumis beaucoup plus facilement à une mort rp, vous devez donc faire en sorte de le protéger et garder son identité secrète.
+
+Seul l’état-major doit être tenu au courant des noms/carte d’identités des indics pour assurer leur sécurité.
+{% endtab %}
+
+{% tab title="🕵️ Fouille" %}
+* Le suspect monte dans un véhicule de police.
+* Le suspect dissimule son visage (masque).
+* Le suspect porte un holster plein (étui d’arme).
+* Le suspect porte un gilet par balle.
+* Le suspect est menaçant.
+* En cas de DEFCON (CF. Defcon)
+
+{% hint style="warning" %}
+Liste non exhaustive, veillez à avoir une cohérence pour pouvoir fouiller tout de même.
+{% endhint %}
+{% endtab %}
 {% endtabs %}
 
 ## ✅<mark style="color:green;">**Prérequis pour PIT**</mark>
@@ -67,18 +100,12 @@ Les tenues et les véhicules LSPD/BCSO sont obligatoires lorsque vous êtes en s
 * Avoir un véhicule équipé d'un pare buffle
 * Avoir effectué **5 minutes / 10 minutes contre les gangs** de courses poursuites avant
 
-{% hint style="success" %}
-<img src="../.gitbook/assets/image.gif" alt="" data-size="original">
+{% tabs %}
+{% tab title="✅ PIT Autorisé" %}
+<figure><img src="../.gitbook/assets/image.gif" alt="" width="497"><figcaption></figcaption></figure>
+{% endtab %}
 
-✅ **PIT Autorisé**
-
-_(Déstabilisation du véhicule)_
-{% endhint %}
-
-{% hint style="danger" %}
-<img src="../.gitbook/assets/image (1).gif" alt="" data-size="original">
-
-❌ **PIT non Autorisé**
-
-_(Auto tamponneuse)_
-{% endhint %}
+{% tab title="❌ PIT non Autorisé " %}
+<figure><img src="../.gitbook/assets/image (1).gif" alt="" width="493"><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
