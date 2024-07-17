@@ -13,4 +13,7 @@
   * [🎓 Services Publiques](reglement-global/services-publiques.md)
   * [🏡 Zone Safe](reglement-global/zone-safe.md)
 * [⚖️ Règlement RP Légal](reglement-rp-legal/README.md)
-  * [👮 Règlement LSPD/BCSO](reglement-rp-legal/reglement-lspd-bcso.md)
+  * [👮 Règlement LSPD/BCSO](reglement-rp-legal/reglement-lspd-bcso/README.md)
+    * [🚓 Règlement des forces de l'ordre](reglement-rp-legal/reglement-lspd-bcso/reglement-des-forces-de-lordre.md)
+    * [🚨 Defcon](reglement-rp-legal/reglement-lspd-bcso/defcon.md)
+  * [🚑 Règlement EMS](reglement-rp-legal/reglement-ems.md)

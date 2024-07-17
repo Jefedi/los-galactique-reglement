@@ -102,10 +102,10 @@ Liste non exhaustive, veillez à avoir une cohérence pour pouvoir fouiller tout
 
 {% tabs %}
 {% tab title="✅ PIT Autorisé" %}
-<figure><img src="../.gitbook/assets/image.gif" alt="" width="497"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.gif" alt="" width="497"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="❌ PIT non Autorisé " %}
-<figure><img src="../.gitbook/assets/image (1).gif" alt="" width="493"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).gif" alt="" width="493"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
