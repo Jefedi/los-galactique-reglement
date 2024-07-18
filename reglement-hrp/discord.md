@@ -25,7 +25,7 @@ layout:
     Merci de ne pas spammer ainsi que de vous respecter mutuellement.
 * Veillez à bien vérifier si vous postez votre photo dans la section HRP ou RP.
 * Toute pub serveur sera sanctionnée d’un ban définitif !
-* Uniquement les serveurs discords reliés à MCITY pourront être partagés.
+* Uniquement les serveurs discords reliés à Los Galactique RP pourront être partagés.
 * Si vous avez une question ou un quelconque problème sur le serveur, merci de créer un ticket sur le discord afin que l’on puisse vous aider.
 * Merci de respecter les formules de politesses et de ne pas spam les membres du staff.
 * Les pings admin/modo/helpeur sont strictement interdit, si vous avez besoin de parler à une personne en particulier indiquez le dans le ticket et les staffs se chargeront de tenir au courant la personne concernée.
