@@ -14,7 +14,7 @@ layout:
 
 # 📲 Discord
 
-{% embed url="https://discord.gg/zDKMNDV5mQ" %}
+{% embed url="https://discord.gg/aESdYg2uFm" %}
 
 ## Règlement du discord
 
