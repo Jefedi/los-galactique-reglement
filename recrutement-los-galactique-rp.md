@@ -14,4 +14,4 @@ layout:
 
 # 📋 Recrutement - Los Galactique RP
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfXrrckmDNC-yEqzdXtButbrjUpftylaIqPBw3ySEAkakaqjQ/viewform" %}
+yo
