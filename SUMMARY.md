@@ -21,4 +21,4 @@
 * [☠️ Règlement RP Illégal](reglement-rp-illegal/README.md)
   * [📚 Règles générales](reglement-rp-illegal/regles-generales.md)
   * [💀 Illégal](reglement-rp-illegal/illegal.md)
-* [📋 Recrutement - Los Galactique RP](recrutement-los-galactique-rp.md)
+* [📋 Formulaire - Los Galactique RP](recrutement-los-galactique-rp.md)
