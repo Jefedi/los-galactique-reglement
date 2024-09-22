@@ -25,3 +25,8 @@ layout:
 ## Formulaire de Demande de Débannissement
 
 {% embed url="https://docs.google.com/forms/d/1BoiW7NzOSmaXyZZM57pmVLjgi6PtOYneozCobZi9_WU/edit" %}
+
+## **Formulaire de Signalement de Joueurs**
+
+{% embed url="https://docs.google.com/forms/d/1C4PRHNQ97lb6Ar1kOJy0ufTBUWVDJuS01N0R9zEqLWk/edit" %}
+
