@@ -1,13 +1,10 @@
 ---
-cover: >-
-  ../.gitbook/assets/DALL·E 2024-07-17 05.58.21 - A captivating logo for 'Los
-  Galactique RP', a GTA role-playing server. The design embodies the spirit of
-  adventure, mystery, and dynamism of galaxies .webp
+cover: ../.gitbook/assets/image3.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
