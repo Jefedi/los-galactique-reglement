@@ -12,6 +12,8 @@ layout:
     visible: true
 ---
 
-# 📋 Recrutement - Los Galactique RP
+# 📋 Formulaire - Los Galactique RP
 
 {% embed url="https://docs.google.com/forms/d/1Yd1emyeISmS0ucsfzdpQ7uzSm_K__6QEEnO4R-ayAhk/edit" %}
+
+## Formulaire de Feedback des Joueurs
