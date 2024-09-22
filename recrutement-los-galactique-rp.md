@@ -17,7 +17,8 @@ layout:
   _Postulez pour rejoindre l'équipe administrative du serveur._
 
 ## Gestion des Joueurs
-- [Formulaire de Feedback des Joueurs](https://docs.google.com/forms/d/1fSmctn0e3djECL-eN8xxf0G9PFPGoj8VL931Oip6jC4/edit)  
+- ## Gestion des Joueurs
+- [![Feedback des Joueurs](https://img.shields.io/badge/Feedback%20des%20Joueurs-Formulaire-brightgreen)](https://docs.google.com/forms/d/1fSmctn0e3djECL-eN8xxf0G9PFPGoj8VL931Oip6jC4/edit)
   _Donnez-nous vos impressions et suggestions pour améliorer l'expérience de jeu._
 - [Formulaire de Demande de Débannissement](https://docs.google.com/forms/d/1BoiW7NzOSmaXyZZM57pmVLjgi6PtOYneozCobZi9_WU/edit)  
   _Soumettez une requête pour être débanni du serveur._
