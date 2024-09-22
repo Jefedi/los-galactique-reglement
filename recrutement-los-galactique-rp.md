@@ -15,10 +15,10 @@ layout:
 # 📋 Formulaire - Los Galactique RP
 
 ##  Recrutement Staff - Los Galactique RP 
-{% embed url="https://docs.google.com/forms/d/1Yd1emyeISmS0ucsfzdpQ7uzSm_K__6QEEnO4R-ayAhk/edit" %}
+{% embed url="https://docs.google.com/forms/d/1Yd1emyeISmS0ucsfzdpQ7uzSm_K__6QEEnO4R-ayAhk/prefill" %}
 
 ## Formulaire de Feedback des Joueurs
-{% embed url="https://docs.google.com/forms/d/1fSmctn0e3djECL-eN8xxf0G9PFPGoj8VL931Oip6jC4/edit" %}
+{% embed url="https://docs.google.com/forms/d/1fSmctn0e3djECL-eN8xxf0G9PFPGoj8VL931Oip6jC4/prefill" %}
 
 ## Formulaire de Demande de Débannissement
-{% embed url="https://docs.google.com/forms/d/1fSmctn0e3djECL-eN8xxf0G9PFPGoj8VL931Oip6jC4/edit" %}
+{% embed url="https://docs.google.com/forms/d/1fSmctn0e3djECL-eN8xxf0G9PFPGoj8VL931Oip6jC4/prefill" %}
