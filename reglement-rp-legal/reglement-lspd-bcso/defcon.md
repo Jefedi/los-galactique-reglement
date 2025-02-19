@@ -49,7 +49,7 @@ Accroisement supplémentaire dans la préparation des forces, mais inférieure �
 * Equipement de combat. (Max 1 sniper par scène)
 * Véhicules basiques / Véhicules aériens / Véhicules blindés.
 * Forces de l'ordre à disposition totale du Gouvernement.
-* Toutes les unités des forces de l'ordre obéissent aux commandants de la LSPD uniquement.
+* Toutes les unités des forces de l'ordre obéissent aux commandants de la SASP uniquement.
 * Aucun mandat obligatoire dans le cadre d'une opération importante.
 * Pendant un délit de fuite, droit de P.I.T au bout de 2min de poursuite. (Foncer dans le véhicule du fuyard pour le déstabiliser.)
 * Pendant un délit de fuite, droit de faire les pneus au bout de 5min de poursuite. (Un seul pneu suffit pour déstabiliser la conduite du fuyard.)

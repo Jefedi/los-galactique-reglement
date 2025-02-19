@@ -15,14 +15,14 @@ layout:
 # 🚓 Règlement des forces de l'ordre
 
 {% hint style="info" %}
-Les différents niveau d'intervention pour les descentes LSPD
+Les différents niveau d'intervention pour les descentes SASP
 
 * <mark style="color:green;">intervention Niveau 1</mark> : prise d'info + carte identité (matraque)
 * <mark style="color:yellow;">intervention Niveau 2</mark> : perquisition
 * <mark style="color:orange;">intervention Niveau 3</mark> : Arrestation de membre de cet orga/gang
 * <mark style="color:red;">intervention Niveau 4</mark> : DISSOLUTION
 
-Si les gang aperçoivent la LSPD entrain de se préparer pour faire une descente chez eux il sont obliger de déserter le quartier !
+Si les gang aperçoivent la SASP entrain de se préparer pour faire une descente chez eux il sont obliger de déserter le quartier !
 {% endhint %}
 
 <details>
@@ -30,11 +30,11 @@ Si les gang aperçoivent la LSPD entrain de se préparer pour faire une descente
 <summary>Les Commandants</summary>
 
 * Gèrent les liens avec le gouvernement et avec les hauts gradés
-* Prennent des directives pour l’organisation de la LSPD
-* Organisent et animent les réunions au sein de la LSPD (réunion hebdo LSPD + réunion Major)
+* Prennent des directives pour l’organisation de la SASP
+* Organisent et animent les réunions au sein de la SASP (réunion hebdo SASP + réunion Major)
 * Décident de la création/de la fermeture des services.
 * Peuvent proposer un vote à l’état major pour consultation de leur avis mais auront toujours la compétence décisionnaire définitive
-* Délèguent partiellement la compétence d'exclusion de la LSPD aux commandants adjoints
+* Délèguent partiellement la compétence d'exclusion de la SASP aux commandants adjoints
 * Délèguent partiellement la compétence de mise en garde (avertissements) à l'Etat Major
 * Peuvent donner les rôles aux nouveaux cadets
 
@@ -46,7 +46,7 @@ Si les gang aperçoivent la LSPD entrain de se préparer pour faire une descente
 
 _Doivent savoir et réalisent tout ce que font les lieutenants et capitaines_
 
-* Peuvent exclure des agents de la LSPD grâce à la délégation de compétence
+* Peuvent exclure des agents de la SASP grâce à la délégation de compétence
 * Peuvent décider d'un avertissement grâce à la délégation de compétence
 * Animent en l'absence ou par décision des commandants les réunions internes et externes
 * Accueillent les agents qui font appel de leur décision d'exclusion
@@ -58,7 +58,7 @@ _Doivent savoir et réalisent tout ce que font les lieutenants et capitaines_
 
 <summary>Les Secrétaire de Direction</summary>
 
-* Coordonnent les démarches RH (ressources humaines) de la LSPD
+* Coordonnent les démarches RH (ressources humaines) de la SASP
 * S’assurent que les agents ne manquent de rien pour exercer leur métier
 * Gèrent l'organisation de l’intranet et de l’administration
 * Co-pilotent le recrutement des nouvelles recrues de l'académie

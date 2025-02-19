@@ -101,7 +101,7 @@ Le fait d’acheter sur la boutique ne vous donne en aucun cas un quelconque ava
 
 <summary>Modif arme non collé</summary>
 
-Tout accessoires mis sur une arme <mark style="color:red;">**NON Permanente**</mark> (_NON Boutique)_ sera non remboursable en cas d'échange ou de dons à un autre joueur même sous preuve. _(Les accessoires restant collé sur les armes non boutique, en cas de perte ou de saisie par la LSPD ou autre, sera considéré comme de la perte.)_
+Tout accessoires mis sur une arme <mark style="color:red;">**NON Permanente**</mark> (_NON Boutique)_ sera non remboursable en cas d'échange ou de dons à un autre joueur même sous preuve. _(Les accessoires restant collé sur les armes non boutique, en cas de perte ou de saisie par la SASP ou autre, sera considéré comme de la perte.)_
 
 </details>
 

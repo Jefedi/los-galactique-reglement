@@ -28,7 +28,7 @@ Vous n’avez pas le droit d’utiliser votre service EMS en faisant de l’ill�
 {% tab title="✅ Autorisé" %}
 Un EMS peut soigner une personne dans un quartier uniquement si on lui a donné l’autorisation d’entrer.
 
-* Si un joueur refuse de présenter sa carte d’identité aux EMS, l’hôpital demandera à ce qu’un agent de la LSPD/BCSO intervienne.
+* Si un joueur refuse de présenter sa carte d’identité aux EMS, l’hôpital demandera à ce qu’un agent de la SASP/BCSO intervienne.
 * _<mark style="background-color:green;">**\*NEW\***</mark>_ Une <mark style="color:red;">**ATA pour mort par Arme**</mark> sera de <mark style="color:yellow;">**10 minutes**</mark>
 {% endtab %}
 
