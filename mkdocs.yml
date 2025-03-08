@@ -38,6 +38,7 @@ nav:
 
 # Thème du site
 theme:
+  language: fr
   name: material
   icon:
   admonition:
