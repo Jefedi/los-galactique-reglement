@@ -1,0 +1,99 @@
+# Nom du site
+site_name: Los Galactique RP Reglement 
+
+# URL du dépôt GitHub
+repo_url: https://github.com/Jefedi/ImmoWiki
+
+# Nom du dépôt GitHub
+repo_name: Jefedi/ImmoWiki
+
+# Navigation du site
+nav:
+  - Accueil: index.md
+  - Recrutment: recrutement-los-galactique-rp.md
+  - Règlement HRP: 
+    - reglement-hrp/index.md
+    - reglement-hrp/reglement-ticket.md
+    - reglement-hrp/reglement-streameur.md
+    - reglement-hrp/reglement-discord.md
+  - Règlement Global:
+    - reglement-global/index.md
+    - reglement-global/lexique-rp.md
+    - reglement-global/notions-de-base-rp.md
+    - reglement-global/regles-basiques.md
+    - reglement-global/services-publiques.md
+    - reglement-global/zone-safe.md
+
+
+# Thème du site
+theme:
+  name: material
+  logo: assets/dyanasty8.png
+  icon:
+  admonition:
+    interdit: octicons/alert-16
+    repo: fontawesome/brands/github
+    admonition:
+      alert: material/alert
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    # - navigation.footer
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+# Extensions Markdown
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+# Plugins
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      type: timeago
+
+# Paramètres supplémentaires
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/JGudwhRJ3t
+  version:
+    provider: Jefe
+  consent:
+    title: Consentement aux cookies
+    actions:
+      - accept
+      - reject
+      - manage
+    description: >- 
+      Nous utilisons des cookies pour reconnaître vos visites répétées et vos préférences, ainsi que pour mesurer l'efficacité de notre documentation et savoir si les utilisateurs trouvent ce qu'ils recherchent. En donnant votre consentement, vous nous aidez à améliorer notre documentation.
+  copyright: Copyright &copy; 2025 - 2025 Jefe
+  generator: false
+
+# Schéma pour le serveur de langage YAML
+yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json

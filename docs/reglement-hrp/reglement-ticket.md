@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-### 📬 Règlement Ticket
+# 📬 Règlement Ticket
 
 ## Il est important de respecter certaines conditions lorsque vous ouvrez un ticket auprès du Staff
 

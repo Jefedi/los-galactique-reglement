@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🏢 Accueil
 
 <figure><img src=".gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>

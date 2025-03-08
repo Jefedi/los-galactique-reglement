@@ -1,20 +1,7 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📲 Discord
 
-{% embed url="https://discord.gg/aESdYg2uFm" %}
+
+[Discord - Los Galactique RP](https://discord.gg/aESdYg2uFm){ .md-button .md-button--primary }
 
 ## Règlement du discord
 

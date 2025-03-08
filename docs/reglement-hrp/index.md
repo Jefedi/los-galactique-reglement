@@ -1,29 +1,18 @@
----
-description: Tout sur le Règlement HRP
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📃 Règlement HRP
 
 Petit conseil avant de commencer votre aventure...
 
 Nous vous conseillons fortement d'utiliser Medal, c'est un logiciel qui vous permet d'enregistrer vos 10 dernières minutes de jeu. Pourquoi l'utiliser ? C'est avant tout un amusement de jouer le RolePlay, mais comme vous le savez certaines personnes se permettent des choses interdites, les administrateurs ne peuvent pas être partout, c'est pourquoi nous vous recommandons fortement d'utiliser Medal. Simple à installer, ne prend pas de place sur votre disque dur, utilisez le, si vous avez un soucis avec un joueur, rendez-vous sur le discord, montrez nous le "clip" et nous règlerons le problème avec vous.
 
-{% embed url="https://medal.tv/fr" fullWidth="false" %}
 
-{% hint style="danger" %}
-<mark style="color:red;">Toute aide graphique</mark> **(Pack GF avec les peds lumineux, kill effect avec ped lumineux, no bush, no water, no props, etc...)** sont interdit et punis d'un jail de 900 minutes + Wipe, voir ban si trop d'abus.
-{% endhint %}
+[Medal](https://medal.tv/fr){ .md-button .md-button--primary }
+
+!!! danger "Aide Graphique"
+
+    <mark style="color:red;">Toute aide graphique</mark> **(Pack GF avec les peds lumineux, kill effect avec ped lumineux, no bush, no water, no props, etc...)** sont interdit et punis d'un jail de 900 minutes + Wipe, voir ban si trop d'abus.
+
+
+
 
 <details>
 
@@ -35,7 +24,7 @@ Tout mod menu, ou mod style no recoil, no bush, no water, no props, hitbox, bull
 
 <details>
 
-<summary>Pseudo IG <mark style="color:yellow;">(Pseudo au dessus de votre tête)</mark></summary>
+<summary>Pseudo IG (Pseudo au dessus de votre tête)</mark></summary>
 
 Tout pseudo offensant, raciste ou contenant des propos inappropriés, est totalement interdit, en cas de non-respect de cette règle, un <mark style="color:red;">**bannissement**</mark> _<mark style="color:red;">temporaire</mark>_ ou _<mark style="color:red;">permanent</mark>_ vous sera administré en fonction de la situation.
 
