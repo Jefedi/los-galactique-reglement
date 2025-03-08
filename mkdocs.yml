@@ -23,12 +23,22 @@ nav:
     - reglement-global/regles-basiques.md
     - reglement-global/services-publiques.md
     - reglement-global/zone-safe.md
-
+  - Règlement RP Légal:
+    - reglement-rp-legal/index.md
+    - reglement-rp-legal/reglement-ems.md
+    - reglement-rp-legal/reglement-entreprise.md
+    - Règlement SASP/BCSO:
+      - reglement-rp-legal/reglement-sasp-bcso/index.md
+      - reglement-rp-legal/reglement-sasp-bcso/reglement-des-forces-de-lordre.md
+      - reglement-rp-legal/reglement-sasp-bcso/defcon.md
+  - Règlement RP Illégal:
+    - reglement-rp-illegal/index.md
+    - reglement-rp-illegal/illegal.md
+    - reglement-rp-illegal/regles-generales.md
 
 # Thème du site
 theme:
   name: material
-  logo: assets/dyanasty8.png
   icon:
   admonition:
     interdit: octicons/alert-16
@@ -69,6 +79,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
 
 # Plugins
 plugins:
