@@ -2,10 +2,10 @@
 site_name: Los Galactique RP Reglement 
 
 # URL du dépôt GitHub
-# repo_url: https://github.com/Jefedi/ImmoWiki
+repo_url: https://github.com/Jefedi/los-galactique-reglement.git
 
 # Nom du dépôt GitHub
-# repo_name: Jefedi/ImmoWiki
+repo_name: Jefedi/Los Galactique Reglement
 
 # Navigation du site
 nav:
