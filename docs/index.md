@@ -1,3 +1,4 @@
 # 🏢 Accueil
 
-![Los Galatique](https://media.discordapp.net/attachments/1051972652249661467/1343684533655965788/7d751a35-63e4-43a7-8ec0-27eeaf19d578.jpg?ex=67cd547d&is=67cc02fd&hm=bfe44a6084c43bcb373309c89852f23276885bedef0029bf491ea61821f85962&=&format=webp&width=1269&height=960)
+
+![Los Galatique](https://media.discordapp.net/attachments/1348433191874068551/1348434204169469952/669042a4c1cae245290e90e3e6c5565a.webp?ex=67cf72b6&is=67ce2136&hm=60f35aab65df2e1024b4770d24a224829e67c8f10c63fa76e0b211286e6baf57&=&format=webp&width=320&height=320)
