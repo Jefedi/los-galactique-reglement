@@ -42,6 +42,7 @@ theme:
   language: fr
   name: material
   icon:
+    repo: fontawesome/brands/github
   admonition:
     interdit: octicons/alert-16
     repo: fontawesome/brands/github
