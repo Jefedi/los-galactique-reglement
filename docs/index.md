@@ -1,5 +1,3 @@
-# 🏢 Accueil
-
 # Bienvenue, Aventuriers !
 
 **À vous qui avez soif d'aventure et de découverte,**
