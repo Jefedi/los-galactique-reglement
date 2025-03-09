@@ -19,6 +19,5 @@
 * Le Channel "<mark style="color:red;">Attente d’aide Vocal</mark>" est créé afin de vous aider si vous rencontrez un souci en jeu ou que vous avez besoin d’aide et de précisions.
 * N'oubliez pas que vous n'êtes pas tout seul, il faudra dans certains cas, vous munir de patience le temps qu'un staff vous réponde ou vous prenne en BDA. (Besoin d'aide vocal)
 
-{% hint style="danger" %}
-**Insulter, ou menacer dans un ticket d'aller porter plainte par exemple ne règlera pas plus vite votre dossier ou votre soucis, au contraire, vous risquerez d'attendre plus longtemps ou de vous voir BAN PERM ou MUTE du discord principal de** Los Galactique RP**.**
-{% endhint %}
+??? danger "Insulter ou menacer dans un ticket"
+    Insulter, ou menacer dans un ticket d'aller porter plainte par exemple ne règlera pas plus vite votre dossier ou votre souci, au contraire, vous risquerez d'attendre plus longtemps ou de vous voir BAN PERM ou MUTE du discord principal de Los Galactique RP.
