@@ -29,3 +29,12 @@ jobs:
       - run: pip install mkdocs-git-revision-date-localized-plugin
       - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
+      - name: Ensure CNAME file is present
+        run: |
+          if [ ! -f ./CNAME ]; then
+            echo "CNAME file is missing! Copying it from the main branch."
+            git checkout main -- CNAME
+            git add CNAME
+            git commit -m "Restore CNAME file"
+            git push origin gh-pages
+          fi
