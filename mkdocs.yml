@@ -43,7 +43,6 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-  logo: assets/los-icone.png
   admonition:
     interdit: octicons/alert-16
     repo: fontawesome/brands/github
