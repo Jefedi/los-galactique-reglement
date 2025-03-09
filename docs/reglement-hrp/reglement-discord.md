@@ -6,7 +6,7 @@
 ## Règlement du discord
 
 * Tout pseudo discord doit être respectueux et cohérent avec le RP.
-* Tout pseudo offensant se verra sanctionnable. _(Exemple : Titouan )_
+* Tout pseudo offensant se verra sanctionnable. _(Exemple : Ta mere )_
 *   Le Channel discussion HRP est mis en place afin de s’entraider et de communiquer entre vous !
 
     Merci de ne pas spammer ainsi que de vous respecter mutuellement.
