@@ -1,4 +1,4 @@
-# 💀 Illégal
+# 💀 Règlement Illégal
 
 ➡️ Règles générales
 
@@ -6,35 +6,141 @@
 
 === "✅ Autorisé"
 
-    * Arme sortie par accident = Non pris en compte en RP.
-    * Les ajouts de scène sur point chaud sont AUTORISÉS.
-    * Les backeuses peuvent se faire braquer que ce soit en convoi ou en solitaire.
-    * Arme en main (Sac ou non), si braqué en vie = Lootable.
-    * À la suite d'un GunFight ou d'une scène, le groupe vainqueur peut faire une scène d'humiliations RP (exemple faire danser, mettre en surrender, insulte RP) contre le groupe perdant = AUTORISÉ.
-    * /porter un cadavre (Pas d’arme en main & Pas courir) = AUTORISÉ.
-    * Pour les Organisations, les rendez-vous devant les quartiers Gang sont possibles mais attention en cas de RP "Grosse couille", les Gang sont AUTORISÉS à faire des sommations voire GunFight pour protéger leur quartier, sans Loot à la fin. Les abus des 2 côtés seront sanctionnés.
-    * Toutes personnes avec une sacoche ou un sac invisible pendant un GunFight ou une prise d'otage et qui sort son arme à la main pourra se faire LOOT ou payer une rançon selon l'arme.
-    * Attendre qu'une personne sorte du paintball pour ensuite le braquer est INTERDIT, le braquage doit se faire en dehors de la zone de la fête foraine AUTORISÉ.
+    - 🟢 **Les Quartiers / Villas** sont considérés comme des zones **Dangereuses**, un **FEAR** est à jouer naturellement peu importe la personne.
+
+    - 🟢 Pendant une **Prise d'otage (PO)**, le **LOOT** est **AUTORISÉ** uniquement si la personne porte un masque, un gilet pare-balle ou un holster.
+    - *(arme et la moitié de son argent sale ou propre sur lui et sa carte d’identité)*
+
+    - 🟢 Toutes personnes avec une **sacoche** ou **sac** pendant une scène et qui sort son arme pourra se faire **LOOT** si un PO faite par la suite.
+
+    - 🟢 Toutes personnes peut être **BRAQUÉ** mais uniquement pour servir un **Objectif RP**.
+    - *(Exemple : Prise d’otage pour scène)*
+
+    - 🟢 Arme sortie par accident ➡️ Non pris en compte en RP.
+
+    - 🟢 Les **Armes Légères** peuvent être sortie avec les **sacoches** = **AUTORISÉ**.
+
+    - 🟢 Un groupe illégal qui possède un point de drogue est **AUTORISÉ** à loot un groupe adverse même après une mort. *(1 arme et la moitié de son argent sale ou propre sur lui et sa carte d’identité)*
+
 
 === "❌ Interdit"
 
-    * No Fear : Une personne ne jouant pas son fear pendant une scène (Exemple : s'enfuir pendant qu'il est encerclé par plusieurs personnes armées.) pourra se faire abattre, s'il est tué, l'adversaire pourra alors réclamer sous preuve, la MORT RP de la personne.
-    * Les casques pare-balles (Biker/Militaire etc.) = INTERDIT.
-    * Les sacoches ne sont pas considérées comme un sac (Sortie arme lourde en sacoche) = INTERDIT.
-    * Les ajouts de scène hors point chaud et ajout sur GunFight sont INTERDIT.
-    * Toute personne qui parle HRP peu importe la raison ou le moment, sera lourdement sanctionnée.
-    * Il est INTERDIT de percuter ou d'écraser quelqu'un dans le but de le tuer.
-    * Le Back GF (fait de revenir ou de venir sur un GunFight déjà engagé) est INTERDIT.
-    * Le Re-DROP (fait de remonter en véhicule pour reprendre une position dans un GunFight) est INTERDIT.
-    * Le BAIT (fait de descendre sur plusieurs endroits différents en convoi, vous devez tous descendre au même endroit.) est INTERDIT.
-    * L'utilisation d'emotes ou d'animations dans le but de se cacher ou pour d'autres raisons est INTERDIT.
-    * Aucune "BDA" et aucun "Report", ne seront effectués ni pris pendant une scène, sauf si c'est pour effectuer une MORT RP. Tous les problèmes seront résolus en fin de soirée par le biais de "tickets" ou de "BDA".
-    * Attendre qu'une personne sorte du paintball pour ensuite le braquer est INTERDIT ; le braquage doit se faire en dehors de la zone de la fête foraine AUTORISÉ.
-    * La zone du paintball est une zone de MASS RP, les tirs sont INTERDIT.
-    * Farmer depuis l'intérieur d'un véhicule et/ou arme à la main est INTERDIT.
-    * Suite à une mort par Arme impossible de sortir une arme (ATA ou non) = 10 minutes.
-    * Il est INTERDIT de PIT un convoi de MC.
+    - Les véhicules **BLINDÉS** intégralement comme : **(PV/JeepG etc...)** ➡️ **INTERDIT**.
 
-=== "🛡️ Autre"
+    - Il est **INTERDIT** de **BRAQUER** une personne sans raison.
 
-=== "💊 ATA"
+    - Une personne **MASQUÉE** n’est pas reconnaissable.
+
+    - **NO FEAR** : Une personne ne peut pas se faire **LOOT** pendant une scène pourra se faire abattre s’il est tué, l’adversaire pourra : Accueil ➡️ Se Connecter ➡️ Discord ➡️ Boutique ➡️ Guide ➡️ Report ➡️ Rest.
+    - *(Exemple : s’enfuir pendant qu’il est encerclé par plusieurs personnes armées.)*
+
+    - Les casques pare-balles *(Biker/Militaire etc...)* ➡️ **INTERDIT**.
+
+    - Les **Armes Lourdes** ne peuvent être sortis avec les **sacoches** = **INTERDIT**.
+
+    - Se rajouter sur une scène déjà en cours ➡️ **INTERDIT**.
+
+    - Il est **INTERDIT** de rester sur place après avoir donné la **MORT**.
+
+    - Toutes personnes qui parlent **HRP** ou /me inutile ou utilisation d’emotes ou d’animations abusives peu importe la raison ou le moment, sera tourdement sanctionnées.
+
+    - Le **Back GF** ➡️ **INTERDIT**.
+    - *(fait de revenir ou de venir sur un GunFight déjà engagé)*
+
+    - Le **Re-DROP** ➡️ **INTERDIT**.
+    - *(fait de remonter en véhicule pour reprendre une position dans un GunFight)*
+
+    - Le **BAIT** ➡️ **INTERDIT**.
+    - *(fait de descendre sur plusieurs endroits différents en convoi, vous devez tous descendre au même endroit.)*
+
+    - Le **GANG BAIT** est **INTERDIT**.
+    - *(Faire les grosses couilles dans un quartier ou une villa)*
+
+    - Aucune **"BDA"** et aucun **"Report"**, ne seront effectués ni pris pendant une scène, sauf si c’est pour effectuer une **MORT RP**.
+    - *(Tous les problèmes seront résolus en fin de scène par le biais de "tickets" ou de "BDA".)*
+
+    - Farmer depuis l’intérieur d’un véhicule et/ou armé à la main ➡️ **INTERDIT**.
+
+    - Il est **INTERDIT** de **PIT** un convoi de **MC**.
+
+    - Retour **Quartier / Zone safe / Villa** ➡️ **INTERDIT**.
+
+    - Porter un **cadavre** en vélo ou en moto ou à pied avec une arme ➡️ **INTERDIT**.
+
+    - La prise de **position** dans les **MONTAGNES** ➡️ **INTERDIT**.
+    - *(Si vous prenez des places dans les montagnes pour une scène de combat alors que le groupe est au sol.)*
+
+=== "♾️ Autres"
+
+    La règle de sommation est la même pour TOUS les groupes, une sommation en l'air avec une rafale de 10 balles.
+
+    - **Solution 1** : Le groupe adverse RESTE ET RÉPOND au sommation en tirant une rafale en l'air de 10 balles, la scène démarre directement par la suite.
+    - **Solution 2** : Le groupe adverse FUIT.
+    - **Solution 3** : Le groupe adverse NE RÉAGIT PAS, au bout de 10 secondes la scène démarre.
+
+    Toutes sommations doit se faire sans silencieux, hors d'un véhicule.
+
+    **Wipe Projet**
+    En FIN DE PROJET WIPE de tous les membres (cela ne concerne pas les INDÉPENDANTS).
+
+    **Rançon**
+    Le montant MAXIMUM pour une rançon d'arme, de PO, etc... pour toutes les rançons est fixé à : 1 000 000 $
+    (Rançon payable immédiatement en argent ou items, etc...).
+
+    - Le vol dans les coffres de votre groupe ne peut pas être remboursé, à vous de gérer les permissions !
+    - Une personne portant 500 000 $ sur lui doit obligatoirement porter un sac. Si la personne n'en porte pas, elle sera saisie de l'argent immédiatement par la LSPD.
+
+=== "🙍Les Petites Frappes (Indépendants)"
+
+    - Les "Petites Frappes" peuvent faire des activités illégales.
+    - Les tenues "Chic" ou éléments de richesse sont INTERDITS.
+    - Les "Petites Frappes" sont au plus bas de l'illégal, un FEAR reste à jouer en face de l'ensemble des groupes, si NO-FEAR = MORT RP.
+    - Les "Petites Frappes" peuvent braquer et faire des prises en otage, faire du business avec tout le monde, participer à des scènes avec des groupes illégaux.
+        - (1 groupe d'INDÉPENDANT uniquement par groupe illégal)
+    - Les "Petites Frappes" peuvent uniquement utiliser les Armes Blanches, Pistolet.
+        - (INTERDICTION aux Pompes, armes automatiques, Sniper)
+    - Les "Petites Frappes" peuvent uniquement utiliser les Véhicules de gang. (aucun IMPORT)
+
+=== "🔱 Leader illégal"
+
+    - Pour quitter un groupe une seule solution : la MORT RP
+        - (INTERDICTION au Lead de groupe de retirer les rôles sous peine de DISSOLUTION)
+        - Cette règle ne concerne pas les INDÉPENDANTS
+    - Un Lead de groupe illégal a le pouvoir de VIE ou de MORT sur ses membres, dès le premier instant où la personne dispose des rôles IG.
+        - (Les rôles discord ne sont pas pris en compte > HRP)
+
+
+!!! warning "Toutes personnes faisant de l'illégale doit être <span style="color:red">masquées</span>."
+
+!!! danger "Une personne <span style="color:red">SANS</span> rôle illégal <span style="color:red">ne peut pas tirer</span>, sauf s'il possède un PPA [(Permis de Port d'Arme)](https://discord.gg/8BJzTmQw5M)"
+
+!!! danger "Une personne MORTE n'est pas LOOTABLE. (Sauf une personne morte sur un point de vente qui peut se faire Loot par le propriétaire du point de vente)"
+
+!!! danger "NO FEAR : Une personne ne jouant pas son FEAR pendant une scène, pourra se faire abattre, s'il est tué, l'adversaire pourra alors réclamer sous preuve, la MORT RP de la personne sans LOOT. (Exemple : s'enfuir pendant qu'il est encerclé par plusieurs personnes armées.)"
+
+
+??? info   "📋 Règle spécifique Organisation"
+        🚚 Convoi / Véhicule Organisation
+        1. Convoi hors scène : 2 véhicules maximum.
+        2. Les véhicules doivent être remplis au maximum (4 personnes par véhicule).
+        3. Les backeuses INTERDITES.
+        4. 2 pneus crevés = IMMOBILISATION.
+        5. Le vol de véhicule (Boutique ou non) = Autorisé.
+        6. Lors d’une course poursuite en tant que Gang, la LSPD peut vous PIT au bout de 5 minutes.
+
+        🔫 Armes
+        Les snipers seront autorisés en fonction du niveau.
+
+
+??? info   "🔫 Regle specifique Gang 🔫"
+        Convoi / Véhicule Gang
+        1. Convoi hors scène ➡️ 2 Véhicules maximum
+        2. Les véhicules doivent être remplit au maximum  (4 personnes par véhicule)
+        3. Les backeuses ➡️INTERDITES
+        4. 2 pneus crevés = IMMOBILISATION.
+        5. Le vol de véhicule (Boutique ou non) = Autorisé
+        6. Lors d'une course poursuite en tant que Gang,  la LSPD peut vous PIT au bout de 10 minutes.
+
+        # Lore
+         
+         * Le Lore des groupes doit être respecté sur les principaux thème : Couleur des tenues de groupes, accessoire de groupe, etc...
