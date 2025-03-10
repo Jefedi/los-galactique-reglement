@@ -111,7 +111,7 @@ extra:
     description: >- 
       Nous utilisons des cookies pour reconnaître vos visites répétées et vos préférences, ainsi que pour mesurer l'efficacité de notre documentation et savoir si les utilisateurs trouvent ce qu'ils recherchent. En donnant votre consentement, vous nous aidez à améliorer notre documentation.
   copyright: Copyright &copy; 2025 - 2025 Jefe
-  generator: false
+  generator: true
 
 # Fichiers CSS supplémentaires
 extra_css:
