@@ -36,11 +36,18 @@ nav:
     - reglement-rp-illegal/index.md
     - reglement-rp-illegal/illegal.md
     - reglement-rp-illegal/regles-generales.md
+  - Blog:
+    - blog/index.md
+
+
+
+
 
 # Thème du site
 theme:
   language: fr
   name: material
+  logo: assete/icone-los-galac.png
   icon:
     repo: fontawesome/brands/github
   admonition:
@@ -94,6 +101,7 @@ plugins:
   - tags
   - git-revision-date-localized:
       type: timeago
+  - blog
 
 # Paramètres supplémentaires
 extra:
