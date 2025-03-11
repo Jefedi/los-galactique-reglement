@@ -1,169 +1,185 @@
 # Nom du site
-site_name: Los Galactique  # Nom du site web
-
-site_url: https://losgalactiquerp.jefe.ovh  # URL du site web
+site_name: Los Galactique
+site_url: https://losgalactiquerp.jefe.ovh
 
 # URL du dépôt GitHub
-repo_url: https://github.com/Jefedi/los-galactique-reglement.git  # URL du dépôt GitHub
+repo_url: https://github.com/Jefedi/los-galactique-reglement.git
 
 # Nom du dépôt GitHub
-repo_name: Jefedi/Los Galactique  # Nom du dépôt GitHub
+repo_name: Jefedi/Los Galactique
 
 # Navigation du site
-nav:  # Définition de la navigation du site
-  - Accueil: index.md  # Lien vers la page d'accueil
-  - Recrutment: recrutement-los-galactique-rp.md  # Lien vers la page de recrutement
-  - Règlement HRP:  # Menu déroulant pour le règlement HRP
-    - reglement-hrp/index.md  # Lien vers la page d'index du règlement HRP
-    - reglement-hrp/reglement-ticket.md  # Lien vers la page du règlement des tickets
-    - reglement-hrp/reglement-streameur.md  # Lien vers la page du règlement des streameurs
-    - reglement-hrp/reglement-discord.md  # Lien vers la page du règlement Discord
-  - Règlement Global:  # Menu déroulant pour le règlement global
-    - reglement-global/index.md  # Lien vers la page d'index du règlement global
-    - reglement-global/lexique-rp.md  # Lien vers la page du lexique RP
-    - reglement-global/notions-de-base-rp.md  # Lien vers la page des notions de base RP
-    - reglement-global/regles-basiques.md  # Lien vers la page des règles basiques
-    - reglement-global/services-publiques.md  # Lien vers la page des services publics
-    - reglement-global/zone-safe.md  # Lien vers la page des zones sûres
-  - Règlement RP Légal:  # Menu déroulant pour le règlement RP légal
-    - reglement-rp-legal/index.md  # Lien vers la page d'index du règlement RP légal
-    - reglement-rp-legal/reglement-ems.md  # Lien vers la page du règlement EMS
-    - reglement-rp-legal/reglement-entreprise.md  # Lien vers la page du règlement des entreprises
-    - Règlement SASP/BCSO:  # Sous-menu pour le règlement SASP/BCSO
-      - reglement-rp-legal/reglement-sasp-bcso/index.md  # Lien vers la page d'index du règlement SASP/BCSO
-      - reglement-rp-legal/reglement-sasp-bcso/reglement-des-forces-de-lordre.md  # Lien vers la page du règlement des forces de l'ordre
-      - reglement-rp-legal/reglement-sasp-bcso/defcon.md  # Lien vers la page DEFCON
-  - Règlement RP Illégal:  # Menu déroulant pour le règlement RP illégal
-    - reglement-rp-illegal/index.md  # Lien vers la page d'index du règlement RP illégal
-    - reglement-rp-illegal/illegal.md  # Lien vers la page des activités illégales
-    - reglement-rp-illegal/regles-generales.md  # Lien vers la page des règles générales
-  - Blog:  # Menu pour le blog
-    - blog/index.md  # Lien vers la page d'index du blog
+nav:
+  - Accueil: index.md
+  - Recrutment: recrutement-los-galactique-rp.md
+  - Règlement HRP: 
+    - reglement-hrp/index.md
+    - reglement-hrp/reglement-ticket.md
+    - reglement-hrp/reglement-streameur.md
+    - reglement-hrp/reglement-discord.md
+  - Règlement Global:
+    - reglement-global/index.md
+    - reglement-global/lexique-rp.md
+    - reglement-global/notions-de-base-rp.md
+    - reglement-global/regles-basiques.md
+    - reglement-global/services-publiques.md
+    - reglement-global/zone-safe.md
+  - Règlement RP Légal:
+    - reglement-rp-legal/index.md
+    - reglement-rp-legal/reglement-ems.md
+    - reglement-rp-legal/reglement-entreprise.md
+    - Règlement SASP/BCSO:
+      - reglement-rp-legal/reglement-sasp-bcso/index.md
+      - reglement-rp-legal/reglement-sasp-bcso/reglement-des-forces-de-lordre.md
+      - reglement-rp-legal/reglement-sasp-bcso/defcon.md
+  - Règlement RP Illégal:
+    - reglement-rp-illegal/index.md
+    - reglement-rp-illegal/illegal.md
+    - reglement-rp-illegal/regles-generales.md
+  - Blog:
+    - blog/index.md
+
+
+
 
 # Thème du site
-theme:  # Configuration du thème du site
-  language: fr  # Langue du site
-  name: material  # Nom du thème utilisé
-  logo: assete/icone-los-galac.png  # Chemin vers le logo du site
-  icon:  # Configuration des icônes
-    repo: fontawesome/brands/github  # Icône pour le dépôt GitHub
-  admonition:  # Configuration des icônes pour les admonitions
-    note: fontawesome/solid/note-sticky  # Icône pour les notes
-    abstract: fontawesome/solid/book  # Icône pour les résumés
-    info: fontawesome/solid/circle-info  # Icône pour les informations
-    tip: fontawesome/solid/bullhorn  # Icône pour les astuces
-    success: fontawesome/solid/check  # Icône pour les succès
-    question: fontawesome/solid/circle-question  # Icône pour les questions
-    warning: material/alert-circle-outline  # Icône pour les avertissements
-    failure: fontawesome/solid/bomb  # Icône pour les échecs
-    danger: fontawesome/solid/skull  # Icône pour les dangers
-    bug: fontawesome/solid/robot  # Icône pour les bugs
-    example: fontawesome/solid/flask  # Icône pour les exemples
-    quote: fontawesome/solid/quote-left  # Icône pour les citations
-  features:  # Fonctionnalités du thème
-    - search.suggest  # Suggestion de recherche
-    - search.highlight  # Mise en surbrillance des résultats de recherche
-    - search.share  # Partage des résultats de recherche
-    # - navigation.footer  # (Commenté) Navigation dans le pied de page
-    # - navigation.tabs  # (Commenté) Navigation par onglets
-    # - navigation.tabs.sticky  # (Commenté) Onglets de navigation fixes
-  palette:  # Palette de couleurs
-    - media: "(prefers-color-scheme: light)"  # Palette pour le mode clair
-      scheme: default  # Schéma par défaut
-      primary: white  # Couleur primaire
-      accent: grey  # Couleur d'accentuation
-      toggle:  # Configuration du bouton de bascule
-        icon: material/toggle-switch-off-outline  # Icône pour le mode clair
-        name: Switch to dark mode  # Nom pour basculer en mode sombre
-    - media: "(prefers-color-scheme: dark)"  # Palette pour le mode sombre
-      scheme: slate  # Schéma ardoise
-      primary: black  # Couleur primaire
-      accent: light blue  # Couleur d'accentuation
-      toggle:  # Configuration du bouton de bascule
-        icon: material/toggle-switch  # Icône pour le mode sombre
-        name: Switch to light mode  # Nom pour basculer en mode clair
+theme:
+  language: fr
+  name: material
+  logo: assete/icone-los-galac.png
+  icon:
+    repo: fontawesome/brands/github
+  admonition:
+    note: fontawesome/solid/note-sticky
+    abstract: fontawesome/solid/book
+    info: fontawesome/solid/circle-info
+    tip: fontawesome/solid/bullhorn
+    success: fontawesome/solid/check
+    question: fontawesome/solid/circle-question
+    warning: material/alert-circle-outline
+    failure: fontawesome/solid/bomb
+    danger: fontawesome/solid/skull
+    bug: fontawesome/solid/robot
+    example: fontawesome/solid/flask
+    quote: fontawesome/solid/quote-left
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    # - navigation.footer
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+
 
 # Extensions Markdown
-markdown_extensions:  # Extensions Markdown utilisées
-  - admonition  # Extension pour les admonitions
-  - pymdownx.details  # Extension pour les détails
-  - pymdownx.superfences  # Extension pour les super clôtures
-  - attr_list  # Extension pour les listes d'attributs
-  - pymdownx.tabbed:  # Extension pour les onglets
-      alternate_style: true  # Style alternatif pour les onglets
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+
 
 # Plugins
-plugins:  # Plugins utilisés
-  - search  # Plugin de recherche
-  - tags  # Plugin de tags
-  - git-revision-date-localized:  # Plugin pour la date de révision Git
-      type: timeago  # Type de date relative
-  - blog:  # Plugin pour le blog
-      authors_profiles: true  # Profils des auteurs activés
-      authors_profiles_url_format: "author/{name}"  # Format de l'URL des profils d'auteurs
-      draft_on_serve: false  # Brouillons désactivés lors du service
-      draft_if_future_date: true  # Brouillons activés pour les dates futures
-      archive: false  # Archive désactivée
-      archive_name: Archive  # Nom de l'archive
-      archive_date_format: MMMM yyyy  # Format de la date de l'archive
-      archive_url_date_format: yyyy/MM  # Format de l'URL de l'archive
-      categories: false  # Catégories désactivées
-      categories_name: Categories  # Nom des catégories
-      categories_url_format: "category/{slug}"  # Format de l'URL des catégories
-      categories_sort_reverse: true  # Tri inverse des catégories
-      categories_allowed:  # Catégories autorisées
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      type: timeago
+  - blog:
+      authors_profiles: true
+      authors_profiles_url_format: "author/{name}"
+
+      draft_on_serve: false
+      draft_if_future_date: true
+
+      archive: false
+      archive_name: Archive
+      archive_date_format: MMMM yyyy
+      archive_url_date_format: yyyy/MM
+
+      categories: false
+      categories_name: Categories
+      categories_url_format: "category/{slug}"
+      categories_sort_reverse: true
+      categories_allowed:
         - Guide
-      post_date_format: full  # Format complet de la date des articles
-      post_url_date_format: yyyy/MM  # Format de l'URL des articles
-      post_readtime_words_per_minute: 250  # Temps de lecture en mots par minute
-  - rss:  # Plugin RSS
-      match_path: blog/posts/.*  # Chemin des articles de blog
-      date_from_meta:  # Date à partir des métadonnées
-        as_creation: date  # Utiliser la date de création
-      categories:  # Catégories pour le flux RSS
+
+
+      post_date_format: full
+      post_url_date_format: yyyy/MM
+      post_readtime_words_per_minute: 250
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
         - categories
-        - tags
+        - tags 
+
 
 # Paramètres supplémentaires
-extra:  # Paramètres supplémentaires
-  analytics:  # Paramètres d'analyse
-    provider: google  # Fournisseur d'analyse
-    property: G-YYVHXV1DWC  # Propriété Google Analytics
-    feedback:  # Paramètres de retour d'information
-      title: Cette page était-elle utile ?  # Titre du retour d'information
-      ratings:  # Évaluations possibles
-        - icon: material/emoticon-happy-outline  # Icône pour l'évaluation positive
-          name: Cette page était utile.  # Nom de l'évaluation positive
-          data: 1  # Valeur de l'évaluation positive
-          note: >-  # Note pour l'évaluation positive
+extra:
+  analytics:
+    provider: google
+    property: G-YYVHXV1DWC
+    feedback:
+      title: Cette page était-elle utile ?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Cette page était utile.
+          data: 1
+          note: >-
             Merci pour votre retour !
-        - icon: material/emoticon-sad-outline  # Icône pour l'évaluation négative
-          name: Cette page pourrait être améliorée.  # Nom de l'évaluation négative
-          data: 0  # Valeur de l'évaluation négative
-          note: >-  # Note pour l'évaluation négative
+        - icon: material/emoticon-sad-outline
+          name: Cette page pourrait être améliorée.
+          data: 0
+          note: >- 
             Merci pour votre retour ! Aidez-nous à améliorer cette page en
             en utilisant notre <a href="https://docs.google.com/forms/d/e/1FAIpQLSduFDRvg0ZlQwTcRgDvfDAQxh3XqAUh6wrHXzweRRiUDIPxhg/viewform" target="_blank" rel="formulaire">formulaire de retour</a>.
-  social:  # Liens sociaux
-    - icon: fontawesome/brands/discord  # Icône pour Discord
-      link: https://discord.gg/JGudwhRJ3t  # Lien vers le serveur Discord
-  version:  # Paramètres de version
-    provider: Jefe  # Fournisseur de version
-  consent:  # Paramètres de consentement aux cookies
-    title: Consentement aux cookies  # Titre du consentement
-    actions:  # Actions possibles
-      - accept  # Accepter
-      - reject  # Refuser
-      - manage  # Gérer
-    description: >-  # Description du consentement
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/JGudwhRJ3t
+  version:
+    provider: Jefe
+  consent:
+    title: Consentement aux cookies
+    actions:
+      - accept
+      - reject
+      - manage
+    description: >- 
       Nous utilisons des cookies pour reconnaître vos visites répétées et vos préférences, ainsi que pour mesurer l'efficacité de notre documentation et savoir si les utilisateurs trouvent ce qu'ils recherchent. En donnant votre consentement, vous nous aidez à améliorer notre documentation.
-  copyright: Copyright &copy; 2025 - 2025 Jefe  # Copyright du site
-  generator: true  # Générateur activé
+  copyright: Copyright &copy; 2025 - 2025 Jefe
+  generator: true
+
+
 
 # Fichiers CSS supplémentaires
-extra_css:  # Fichiers CSS supplémentaires
-  - stylesheets/extra.css  # Chemin vers le fichier CSS supplémentaire
-extra_javascript:  # Fichiers JavaScript supplémentaires
-  - javascripts/feedback.js  # Chemin vers le fichier JavaScript supplémentaire
+# extra_css:
+#   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/feedback.js
+
+
+
 
 # Schéma pour le serveur de langage YAML
-yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json  # Schéma pour le serveur de langage YAML
+yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
