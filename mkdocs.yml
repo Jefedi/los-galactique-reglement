@@ -97,6 +97,23 @@ plugins:
 
 # Paramètres supplémentaires
 extra:
+  analytics:
+    provider: google
+    property: G-YYVHXV1DWC
+    feedback:
+      title: Cette page était-elle utile ?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Cette page était utile.
+          data: 1
+          note: >-
+            Merci pour votre retour !
+        - icon: material/emoticon-sad-outline
+          name: Cette page pourrait être améliorée.
+          data: 0
+          note: >- 
+            Merci pour votre retour ! Aidez-nous à améliorer cette page en
+            en utilisant notre <a href="https://docs.google.com/forms/d/e/1FAIpQLSduFDRvg0ZlQwTcRgDvfDAQxh3XqAUh6wrHXzweRRiUDIPxhg/viewform" target="_blank" rel="formulaire">formulaire de retour</a>.
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/JGudwhRJ3t
@@ -116,7 +133,8 @@ extra:
 # Fichiers CSS supplémentaires
 extra_css:
   - stylesheets/extra.css
-
+extra_javascript:
+  - javascripts/feedback.js
 
 # Schéma pour le serveur de langage YAML
 yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
