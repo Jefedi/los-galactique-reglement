@@ -42,7 +42,6 @@ nav:
 
 
 
-
 # Thème du site
 theme:
   language: fr
@@ -86,6 +85,8 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+
+
 # Extensions Markdown
 markdown_extensions:
   - admonition
@@ -95,13 +96,37 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+
+
 # Plugins
 plugins:
   - search
   - tags
   - git-revision-date-localized:
       type: timeago
-  - blog
+  - blog:
+      authors_profiles: true
+      authors_profiles_url_format: "author/{name}"
+
+      draft_on_serve: false
+      draft_if_future_date: true
+
+      archive: false
+      archive_name: Archive
+      archive_date_format: MMMM yyyy
+      archive_url_date_format: yyyy/MM
+
+      categories: false
+      categories_name: Categories
+      categories_url_format: "category/{slug}"
+      categories_sort_reverse: true
+      categories_allowed:
+        - Guide
+
+
+      post_date_format: full
+      post_url_date_format: yyyy/MM
+      post_readtime_words_per_minute: 250
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
@@ -146,11 +171,16 @@ extra:
   copyright: Copyright &copy; 2025 - 2025 Jefe
   generator: true
 
+
+
 # Fichiers CSS supplémentaires
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/feedback.js
+
+
+
 
 # Schéma pour le serveur de langage YAML
 yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json

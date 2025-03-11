@@ -9,10 +9,11 @@ tags:
     - Join
 categories:
   - Guide
-  - Connexion
 ---
 
 # Se Connecter
 
 soon
 ...
+
+<!-- more -->
