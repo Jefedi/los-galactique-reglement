@@ -73,7 +73,7 @@ Les tenues et les véhicules SASP/BCSO sont obligatoires lorsque vous êtes en s
     !!! warning
         Liste non exhaustive, veillez à avoir une cohérence pour pouvoir fouiller tout de même.
 
-### ✅<mark style="color:green;">**Prérequis pour PIT**</mark>
+### ✅Prérequis pour PIT
 
 * Avoir un véhicule équipé d'un pare buffle
 * Avoir effectué **5 minutes / 10 minutes contre les gangs** de courses poursuites avant
