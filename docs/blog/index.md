@@ -31,4 +31,4 @@ Merci de faire partie de cette incroyable communauté ! Amusez-vous bien et à b
 
 ---
 
-**Contactez-nous** : Pour toute question ou suggestion, n'hésitez pas à nous contacter via [A faire](#).
+**Contactez-nous** : Pour toute question ou suggestion, n'hésitez pas à nous contacter via [Discord](https://discord.gg/EJQHJCDeRt).
