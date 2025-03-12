@@ -146,6 +146,8 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/JGudwhRJ3t
+    - icon: material/rss-box
+      link: https://losgalactiquerp.jefe.ovh/feed_rss_updated.xml
   version:
     provider: Jefe
   consent:
