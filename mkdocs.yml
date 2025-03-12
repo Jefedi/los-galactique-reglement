@@ -39,8 +39,6 @@ nav:
     - blog/index.md
 
 
-
-
 # Thème du site
 theme:
   language: fr
@@ -48,23 +46,11 @@ theme:
   logo: assete/icone-los-galac.png
   icon:
     repo: fontawesome/brands/github
-  admonition:
-    note: fontawesome/solid/note-sticky
-    abstract: fontawesome/solid/book
-    info: fontawesome/solid/circle-info
-    tip: fontawesome/solid/bullhorn
-    success: fontawesome/solid/check
-    question: fontawesome/solid/circle-question
-    warning: material/alert-circle-outline
-    failure: fontawesome/solid/bomb
-    danger: fontawesome/solid/skull
-    bug: fontawesome/solid/robot
-    example: fontawesome/solid/flask
-    quote: fontawesome/solid/quote-left
   features:
     - search.suggest
     - search.highlight
     - search.share
+    - content.code.copy
     # - navigation.footer
     # - navigation.tabs
     # - navigation.tabs.sticky
@@ -85,7 +71,6 @@ theme:
         name: Switch to light mode
 
 
-
 # Extensions Markdown
 markdown_extensions:
   - admonition
@@ -94,6 +79,12 @@ markdown_extensions:
   - attr_list
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
 
 
 # Plugins
@@ -114,13 +105,12 @@ plugins:
       archive_date_format: MMMM yyyy
       archive_url_date_format: yyyy/MM
 
-      categories: false
+      categories: true
       categories_name: Categories
       categories_url_format: "category/{slug}"
       categories_sort_reverse: true
-      categories_allowed:
-        - Guide
-
+      # categories_allowed:
+      #   - Guide
 
       post_date_format: full
       post_url_date_format: yyyy/MM
