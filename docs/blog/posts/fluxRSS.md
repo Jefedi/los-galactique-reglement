@@ -16,6 +16,7 @@ Vous souhaitez être tenu au courant des dernières nouvelles et mises à jour d
 
 ## Comment s'abonner ?
 
+<!-- more -->
 1. **Cliquez sur le lien ci-dessous** :
    - [Abonnez-vous au flux RSS](https://losgalactiquerp.jefe.ovh/feed_rss_updated.xml)
 
