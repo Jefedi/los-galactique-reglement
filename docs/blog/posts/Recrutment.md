@@ -10,29 +10,52 @@ categories:
   - Guide
 ---
 
-# Tout savoir sur le recrutement
 
-## Faire partie d'une équipe, c'est quoi ?
+## Tout savoir sur le recrutement
 
-## Quelles compétences avoir ?
+!!! info "Introduction"
+    Toutes ces questions peuvent sembler intimidantes au premier abord, surtout si vous n'avez jamais eu d'expérience dans la gestion de joueurs. Votre mission ne consiste pas à dire aux joueurs comment jouer, mais à les encadrer pour que leur expérience respecte notre règlement.
 
-## Quel est l'âge minimum et maximum ?
+    **Alors, répondons à ces questions ensemble !**
 
-## Dois-je être tout le temps en ligne ?
+### Faire partie d'une équipe, c'est quoi ?
+Faire partie d'une équipe, c'est avant tout respecter les autres, bien s'entendre et travailler avec des personnes de confiance.
 
-## Combien vais-je être payé ?
+??? question "Comment savoir si c'est fait pour moi ?"
+    Essayez ! Vous verrez rapidement si cela vous plaît, si vous appréciez les personnes avec qui vous travaillez et si vous vous sentez à l'aise dans ce rôle.
 
-## Puis-je occuper deux postes en tant que staff ?
+### Quelles compétences avoir ?
+Pour faire partie du staff, il faut posséder les compétences requises pour le poste visé.
 
-## Quelles permissions vais-je avoir ?
+!!! tip "Exemple"
+    Si une annonce recherche un Gérant Staff, vous devez savoir si vous avez les compétences pour diriger une équipe, prendre des décisions et connaître le règlement.
 
-## Qui dois-je mentionner si je ne sais pas résoudre un problème ?
+### Quel est l'âge minimum et maximum ?
+| Poste             | Âge minimum |
+|------------------|--------------|
+| Standard        | 16 ans        |
+| Gérant Légal & Illégal | 17 ans (mature) |
+| Gérant Staff   | 18 ans (ou 17 ans si très investi) |
 
----
+### Dois-je être tout le temps en ligne ?
+Votre présence est importante pour assurer une bonne gestion.
 
-Toutes ces questions peuvent sembler intimidantes au premier abord, surtout si vous n'avez jamais eu d'expérience dans le domaine de la "gestion" de joueurs. En effet, votre mission ne consiste pas à dire aux joueurs comment jouer, mais à les encadrer pour que leur expérience de jeu respecte notre règlement.
+??? warning "Que se passe-t-il en cas d'absence prolongée ?"
+    Vous devez informer votre équipe dans le salon dédié aux absences. Si les absences deviennent récurrentes sans raison valable, vous risquez d'être démis de vos fonctions.
 
-### Points importants à savoir sur votre engagement et votre rôle :
+### Combien vais-je être payé ?
+La rémunération est inexistante. Le travail est bénévole et volontaire.
 
-- **Image du serveur** : En tant que staff, vous êtes l'image du serveur en première ligne. Cela signifie que chaque joueur se forgera une première impression du serveur en fonction de votre comportement.
-- **Professionnalisme et dévouement** : Votre professionnalisme, votre dévouement et votre respect sont essentiels pour maintenir une bonne réputation du serveur.
+### Puis-je occuper deux postes en tant que staff ?
+Non, sauf exception pour le Community Manager qui peut temporairement assumer certaines responsabilités de gestion d'équipe.
+
+### Quelles permissions vais-je avoir ?
+Les permissions varient selon votre poste et votre grade.
+
+### Qui dois-je mentionner si je ne sais pas résoudre un problème ?
+Adressez-vous d'abord à votre Gérant Staff. En cas de besoin, il pourra escalader la question à un Gérant.
+
+## Points importants à savoir sur votre engagement et votre rôle :
+
+- **Image du serveur** : Vous représentez le serveur en première ligne. Votre comportement influence la perception des joueurs.
+- **Professionnalisme et dévouement** : Un staff respectueux et investi contribue à la bonne réputation du serveur.
