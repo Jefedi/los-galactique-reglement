@@ -115,6 +115,7 @@ plugins:
       post_date_format: full
       post_url_date_format: yyyy/MM
       post_readtime_words_per_minute: 250
+
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
