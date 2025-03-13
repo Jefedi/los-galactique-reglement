@@ -12,14 +12,14 @@ categories:
 
 # Tout savoir sur le recrutment.
 
-## Faire parti d'une equipe c'est quoi ?
-## Quelle competence avoir ?
-## L'age minimum au Maximum ?
-## Je doit etre tout le temps ig ?
-## Combien je suis payer ?
-## Je peux occuper deux poste en tant que staff ?
-## Quelle perme je vais avoir ?
-## Qui je doit mention que je sais pas resoudre un probleme ?
+### Faire parti d'une equipe c'est quoi ?
+### Quelle competence avoir ?
+### L'age minimum au Maximum ?
+### Je doit etre tout le temps ig ?
+### Combien je suis payer ?
+### Je peux occuper deux poste en tant que staff ?
+### Quelle perme je vais avoir ?
+### Qui je doit mention que je sais pas resoudre un probleme ?
 
 
 Tout c'est question a premiere vu peuve faire peur pour certain sur tout si vous n'avez jamais eux une experiance dans le monde de la "gestion" de jouer, car oui c'est sa votre mission pas dire au jouer comme il doive jouer mais les encadre que l'eure jeux respecte notre reglement.
