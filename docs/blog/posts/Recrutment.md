@@ -15,7 +15,8 @@ categories:
 !!! info "Introduction"
     Toutes ces questions peuvent sembler intimidantes au premier abord, surtout si vous n'avez jamais eu d'expérience dans la gestion de joueurs. Votre mission ne consiste pas à dire aux joueurs comment jouer, mais à les encadrer pour que leur expérience respecte notre règlement.
 
-    **Alors, répondons à ces questions ensemble !** <--! more -->
+    **Alors, répondons à ces questions ensemble !** 
+<!-- more -->
 
 ### Faire partie d'une équipe, c'est quoi ?
 Faire partie d'une équipe, c'est avant tout respecter les autres, bien s'entendre et travailler avec des personnes de confiance.
