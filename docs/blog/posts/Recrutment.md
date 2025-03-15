@@ -1,5 +1,4 @@
 ---
-draft: true
 authors:
   - jefe
 date: 2025-03-13
