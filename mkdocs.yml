@@ -43,7 +43,7 @@ nav:
 theme:
   language: fr
   name: material
-  logo: assete/icone-los-galac.png
+  logo: assete/logo/icone-los-galac.png
   icon:
     repo: fontawesome/brands/github
   features:
