@@ -13,4 +13,4 @@ Dans ce monde, la passion ne s'essouffle jamais. Votre créativité est sans lim
 Ce serveur est le vôtre. Grâce à vous, nous le faisons grandir et l'améliorons constamment. L'unicité de chaque aventure fait la beauté du monde RP de GTA RP. Chaque personnage a son histoire, son aventure, et son vécu.
 
 
-![Los Galatique](https://raw.githubusercontent.com/Jefedi/los-galactique-reglement/refs/heads/main/docs/assete/los-icone.png)
+![Los Galatique](https://raw.githubusercontent.com/Jefedi/los-galactique-reglement/refs/heads/main/docs/assete/logo/los-icone.png)
