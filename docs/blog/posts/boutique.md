@@ -1,4 +1,5 @@
 ---
+pin: true
 authors:
   - jefe
 tags:
