@@ -1,3 +1,5 @@
 .cache
 docs/stylesheets/
 .vscode
+.stylesheets/*
+.stylesheets

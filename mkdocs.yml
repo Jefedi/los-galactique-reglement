@@ -164,8 +164,8 @@ extra:
 
 
 # Fichiers CSS supplémentaires
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+#   - stylesheets/extra.css
 extra_javascript:
   - javascripts/feedback.js
 
