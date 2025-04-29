@@ -128,8 +128,7 @@ plugins:
 # Paramètres supplémentaires
 extra:
   analytics:
-    provider: google
-    property: G-YYVHXV1DWC
+
     feedback:
       title: Cette page était-elle utile ?
       ratings:
@@ -165,8 +164,8 @@ extra:
 
 
 # Fichiers CSS supplémentaires
-# extra_css:
-#   - stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
 extra_javascript:
   - javascripts/feedback.js
 
